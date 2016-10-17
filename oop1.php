@@ -17,3 +17,5 @@ echo "<hr>";
 echo $newcar ->sayHello();
 echo "<hr>";
 echo $newcar ->color='red-black-green-gold-blue';
+$arr_val=["java","php","c++"];
+print_r($arr_val);
